@@ -1,0 +1,2 @@
+Prefix plugins/MitochondriaFilter/example/
+Plugin MitochondriaFilter inputfile parameters.mitofilter.txt outputfile subset.rds

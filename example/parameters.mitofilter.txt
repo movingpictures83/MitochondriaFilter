@@ -1,0 +1,4 @@
+rdsfile	mitochondria.rds
+minRNA	200
+maxRNA	2500
+mt	5
